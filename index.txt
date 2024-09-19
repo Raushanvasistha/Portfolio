@@ -1,0 +1,189 @@
+Raushan - personal portfolio
+
+# HEDER
+
+Raushan.
+
+En
+Hn
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Project.
+Contact.
+
+
+
+# HERO
+
+alt = A man in a alice blue shirt with a thinking expression
+
+We Design & Build Creative Products
+
+Get in touch
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+5+
+Completed Projects
+
+alt = Peoples rating icon
+
+
+
+
+
+# ABOUT
+
+alt = A man in a black T-shirt with a happy expression
+
+About me
+
+I am Raushan Kumar
+
+I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+Bootstrap
+alt = Bootstrap logo
+
+React
+alt = React logo
+
+
+
+Git
+alt = Git logo
+
+Npm
+alt = Npm logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+Photoshop
+alt = Photoshop logo
+
+
+
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+raushankumarnawd@gmail.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g Raushan kumar
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g raushankumarnawd@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Raushan.
+
+&copy; 2024 Raushan kumar. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
